@@ -32,7 +32,7 @@ export default class Header extends Component {
                         Creative <span>UI/UX</span> Designer &amp; Developer
                       </h1>
                       <p>
-                        <a href="about.html" className="btn btn-primary">
+                        <a href="/about" className="btn btn-primary">
                           About me
                         </a>
                       </p>

@@ -1,16 +1,16 @@
 import logo from "./logo.svg";
 import "./App.css";
-import Navbar from "./components/Navbar";
-import Tabs from "./components/Tabs";
+import Menu from "./components/Menu";
 import Footer from "./components/Footer";
 import Header from "./components/Header";
+import RouterURL from "./router/RouterURL";
 
 function App() {
   return (
     <div className="App">
+      <Menu />
       <Header />
-      <Navbar />
-      <Tabs />
+      <RouterURL />
       <Footer />
     </div>
   );
