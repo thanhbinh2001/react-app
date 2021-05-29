@@ -15,7 +15,7 @@ export default class Lab4_design extends Component {
             />
             <div className="text-center mt-2">
               <button className="btn btn-info ">
-                <a href="images/l4-papper.jpg" download="19130017-l41-papper">
+                <a href="images/l4-papper.jpg" download="19130017-l4-1-papper">
                   Download
                 </a>
               </button>
@@ -32,7 +32,7 @@ export default class Lab4_design extends Component {
             />
             <div className="text-center mt-2">
               <button className="btn btn-info ">
-                <a href="images/l4-papper2.jpg" download="19130017-l42-papper">
+                <a href="images/l4-papper2.jpg" download="19130017-l4-2-papper">
                   Download
                 </a>
               </button>
@@ -51,7 +51,7 @@ export default class Lab4_design extends Component {
             />
             <div className="text-center mt-2">
               <button className="btn btn-info">
-                <a href="images/l4-html1.png" download="19130017-l41-html">
+                <a href="images/l4-html1.png" download="19130017-l4-1-html">
                   {" "}
                   Download{" "}
                 </a>
@@ -68,7 +68,7 @@ export default class Lab4_design extends Component {
             />
             <div className="text-center mt-2">
               <button className="btn btn-info">
-                <a href="images/l4-html2.png" download="19130017-l42-html">
+                <a href="images/l4-html2.png" download="19130017-l4-2-html">
                   {" "}
                   Download{" "}
                 </a>

@@ -15,7 +15,7 @@ export default class Ex2_design extends Component {
             />
             <div className="text-center mt-2">
               <button className="btn btn-info ">
-                <a href="images/z-papper.jpg" download="19130017-l3-papper">
+                <a href="images/z-papper.jpg" download="19130017-l3-z-papper">
                   Download
                 </a>
               </button>
@@ -26,7 +26,7 @@ export default class Ex2_design extends Component {
             <img src="images/z-html.png" alt="" height="270px" width="500px" />
             <div className="text-center mt-2">
               <button className="btn btn-info">
-                <a href="images/z-html.png" download="19130017-l3-html">
+                <a href="images/z-html.png" download="19130017-l3-z-html">
                   {" "}
                   Download{" "}
                 </a>

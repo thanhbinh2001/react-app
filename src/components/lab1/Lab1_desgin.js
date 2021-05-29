@@ -21,7 +21,7 @@ export default class Content2 extends Component {
             <img src="images/l1-2.jpg" alt="" height="400px" width="500px" />
             <div className="text-center mt-2">
               <button className="btn btn-info">
-                <a href="images/l1-2.jpg" download="19130017-l1-1-html">
+                <a href="images/l1-2.jpg" download="19130017-l1-2-papper">
                   {" "}
                   Download{" "}
                 </a>
@@ -40,7 +40,7 @@ export default class Content2 extends Component {
             />
             <div className="text-center mt-2">
               <button className="btn btn-info ">
-                <a href="images/l1-1-html.png" download="19130017-l1-1-papper">
+                <a href="images/l1-1-html.png" download="19130017-l1-1-html">
                   Download
                 </a>
               </button>
@@ -58,7 +58,7 @@ export default class Content2 extends Component {
             />
             <div className="text-center mt-2">
               <button className="btn btn-info ">
-                <a href="images/l1-2-html.png" download="19130017-l1-2-papper">
+                <a href="images/l1-2-html.png" download="19130017-l1-2-html">
                   Download
                 </a>
               </button>

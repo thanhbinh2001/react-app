@@ -16,7 +16,7 @@ export default class Ex1_design extends Component {
               />
               <div className="text-center mt-2">
                 <button className="btn btn-info ">
-                  <a href="images/f-papper.jpg" download="19130017-l-papper">
+                  <a href="images/f-papper.jpg" download="19130017-l3-f-papper">
                     Download
                   </a>
                 </button>
@@ -32,7 +32,7 @@ export default class Ex1_design extends Component {
               />
               <div className="text-center mt-2">
                 <button className="btn btn-info">
-                  <a href="images/f-html.png" download="19130017-l3-html">
+                  <a href="images/f-html.png" download="19130017-l3-f-html">
                     {" "}
                     Download{" "}
                   </a>

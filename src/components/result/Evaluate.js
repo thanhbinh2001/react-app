@@ -35,7 +35,7 @@ export default class Evaluate extends Component {
                       </ol>
                     </div>
                     <div className="button-result">
-                      <a href = "https://hci2021group02.tk/result/">
+                      <a href = "https://hci2021group02.tk/result">
                         <button type="button" className="btn btn-primary">
                           <i className="fa fa-star" />
                           Evaluate of the team
